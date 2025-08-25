@@ -1,4 +1,4 @@
-package program.java;
+package com.tns.javacodes;
 public class VariableDemo {
 //instance
 	String name;

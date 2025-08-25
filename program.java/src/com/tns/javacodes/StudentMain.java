@@ -1,4 +1,4 @@
-package program.java;
+package com.tns.javacodes;
 
 public class StudentMain {
     public static void main(String[] args) {
